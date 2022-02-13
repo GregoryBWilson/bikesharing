@@ -1,3 +1,7 @@
+#Large data files, may need to push later
+201908-citibike-tripdata.csv
+201908-citibike-tripdata-new.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
