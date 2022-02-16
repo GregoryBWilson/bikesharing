@@ -39,7 +39,7 @@ citibike_data_df.to_csv(output_data_file,index=False)
 
 ✓There is a line graph displaying the number of bikes checked out by duration for all users, and the graph can be filtered by the hour. 
 
-![1_Checkout_Times_for_Users](C:\Users\Greg\Carleton\bikesharing\Resources\1_Checkout_Times_for_Users.png "Figure 1 - Checkout Times for Users")
+![1_Checkout_Times_for_Users](Resources/1_Checkout_Times_for_Users.png "Figure 1 - Checkout Times for Users")
 
 ***Figure 1 - Checkout Times for Users***
 
@@ -47,7 +47,7 @@ citibike_data_df.to_csv(output_data_file,index=False)
 
 ✓There is a line graph displaying the number of bikes that are checked out by duration for each gender by the hour, and the graph can be filtered by the hour and gender. 
 
-![2_Checkout_Times_by_Gender](C:\Users\Greg\Carleton\bikesharing\Resources\2_Checkout_Times_by_Gender.png "Figure 2 - Checkout Times by Gender")
+![2_Checkout_Times_by_Gender](Resources/2_Checkout_Times_by_Gender.png "Figure 2 - Checkout Times by Gender")
 
 ***Figure 2 - Checkout Times by Gender***
 
@@ -55,7 +55,7 @@ citibike_data_df.to_csv(output_data_file,index=False)
 
 ✓A heatmap is created showing the number of bike trips for each hour of each day of the week. 
 
-![3_Trips_by_Weekday_for_Each_Hour](C:\Users\Greg\Carleton\bikesharing\Resources\3_Trips_by_Weekday_for_Each_Hour.png "Figure 3 - Trips by Weekday for Each Hour")
+![3_Trips_by_Weekday_for_Each_Hour](Resources/3_Trips_by_Weekday_for_Each_Hour.png "Figure 3 - Trips by Weekday for Each Hour")
 
 ***Figure 3 - Trips by Weekday for Each Hour***
 
@@ -63,7 +63,7 @@ citibike_data_df.to_csv(output_data_file,index=False)
 
 ✓A heatmap is created showing the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender. 
 
-![4_Trips_by_Gender_Weekday_per_Hour](C:\Users\Greg\Carleton\bikesharing\Resources\4_Trips_by_Gender_Weekday_per_Hour.png "Figure 4 - Trips by Gender Weekday per Hour")
+![4_Trips_by_Gender_Weekday_per_Hour](Resources/4_Trips_by_Gender_Weekday_per_Hour.png "Figure 4 - Trips by Gender Weekday per Hour")
 
 ***Figure 4 - Trips by Gender Weekday per Hour***
 
@@ -71,7 +71,7 @@ citibike_data_df.to_csv(output_data_file,index=False)
 
 ✓A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user AND gender.
 
-![5_User_Trips_by_Gender_by_Weekday](C:\Users\Greg\Carleton\bikesharing\Resources\5_User_Trips_by_Gender_by_Weekday.png "Figure 5 - User Trips by Gender by Weekday")
+![5_User_Trips_by_Gender_by_Weekday](Resources/5_User_Trips_by_Gender_by_Weekday.png "Figure 5 - User Trips by Gender by Weekday")
 
 ***Figure 5 - User Trips by Gender by Weekday***
 
