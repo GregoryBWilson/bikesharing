@@ -105,7 +105,7 @@ An interesting outcome for having converted the duration field to datetime was o
 
 The total bike utilization and the average trip duration are now able to be displayed using the new "Calculated Trip Duration" measure as show in figure 8 below.
 
-![7b_Calculated_Duration_Visualizations](C:\Users\Greg\Carleton\bikesharing\Resources\7b_Calculated_Duration_Visualizations.png "Figure 8 - Calculated Duration Visualizations")
+![7b_Calculated_Duration_Visualizations](Resources/7b_Calculated_Duration_Visualizations.png "Figure 8 - Calculated Duration Visualizations")
 
 ***Figure 8 - Calculated Duration Visualizations***
 
